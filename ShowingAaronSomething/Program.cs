@@ -11,6 +11,7 @@ namespace ShowingAaronSomething
         static void Main(string[] args)
         {
             Console.WriteLine("This GIT stuff is totally awesome dudes!");
+            Console.ReadKey();
         }
     }
 }
