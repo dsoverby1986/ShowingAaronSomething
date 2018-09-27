@@ -12,6 +12,8 @@ namespace ShowingAaronSomething
         {
             Console.WriteLine("This GIT stuff is totally awesome dudes!");
             Console.ReadKey();
+            Console.WriteLine("Some people like Mercurial better though...");
+            Console.ReadKey();
         }
     }
 }
