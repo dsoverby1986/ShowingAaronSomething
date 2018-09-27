@@ -12,9 +12,11 @@ namespace ShowingAaronSomething
         {
             Console.WriteLine("This GIT stuff is totally awesome dudes!");
             Console.ReadKey();
+<<<<<<< HEAD
             Console.WriteLine("Some people like Mercurial better though...");
-            Console.ReadKey();
+=======
             Console.WriteLine("Some people really love confluence...");
+>>>>>>> 9162e06cc587215a64d332a86cfe1352d237697f
             Console.ReadKey();
         }
     }
